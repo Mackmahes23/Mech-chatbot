@@ -22,4 +22,5 @@ Users can type mechanical engineering questions, and the chatbot automatically i
 
 ---
 
-## 📂 Folder Structure
+## Live Page
+https://mackmahes23.github.io/Mech-chatbot/
